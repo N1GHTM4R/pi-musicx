@@ -4,5 +4,17 @@
     ],
     "python.analysis.extraPaths": [
         "c:\\Users\\ceede\\.vscode\\extensions\\stefanwehr.write-your-python-program-1.3.0\\python\\src\\"
+    ],
+    "python.testing.pytestArgs": [
+        "src"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
     ]
 }
