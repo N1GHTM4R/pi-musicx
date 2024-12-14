@@ -1,4 +1,4 @@
-from playsound import playsound
+from playsound import playsound # type: ignore #NOTE: This just ignores the error here, its really annoying lol.
 import os
 
 def play_sound(file_name):
