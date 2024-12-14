@@ -17,7 +17,7 @@ def button_clicked():
 
 # Creating a button with specified options
 button = Tk.Button(root, 
-                   text="Click Me", 
+                   text="test audio", 
                    command=button_clicked,
                    activebackground="blue", 
                    activeforeground="white",
