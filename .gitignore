@@ -16,4 +16,8 @@
 
 *.tmp
 *.bak
+<<<<<<< Updated upstream
 .pyc
+=======
+.pyc
+>>>>>>> Stashed changes
