@@ -19,4 +19,4 @@
 
 *.pyc
 .src/__pycache__/soundplayer.cpython-311.pyc
-.venv
+
